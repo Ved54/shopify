@@ -24,7 +24,7 @@ A modern e-commerce application built with Flutter, featuring a clean and intuit
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/shopify.git
+   git clone https://github.com/Ved54/shopify.git
    ```
 
 2. Navigate to the project directory:
